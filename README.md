@@ -1,3 +1,28 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=1A73E8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rajesh+%F0%9F%91%8B;i'am/+Web+Developer+%26+Tech+Enthusiast!;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Typing Animation" />
+</div>
+
+---
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Development Animation" width="300" />
+
+  <div align="center">
+    <h3>🚀 My Tech Stack</h3>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" style="margin: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" style="margin: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" style="margin: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" style="margin: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="60" style="margin: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" style="margin: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" style="margin: 10px;" />
+    </div>
+  </div>
+</div>
+
+---
+
 # 💫 About Me:
 BSCS student | Web Development & Agentic AI<br>Practicing DSA on LeetCode<br>Open to collaboration and learning new technologies.<br>
 

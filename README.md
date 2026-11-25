@@ -54,6 +54,10 @@
 
 ---
 
+<a href="https://www.credly.com/badges/83ad94c0-61c7-4556-bd89-77b1d47fb4c3/public_url">
+  <img src="./aws-scd-badge.png" width="150" alt="AWS Student Community Day Participant" />
+</a>
+
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
